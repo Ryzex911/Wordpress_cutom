@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#05070a"/></linearGradient><linearGradient id="car" x2="1" y2="1"><stop stop-color="#ff5b63"/><stop offset=".55" stop-color="#c20d1c"/><stop offset="1" stop-color="#3a0208"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="30"/></filter></defs>
+  <rect width="1200" height="900" fill="url(#bg)"/><circle cx="1000" cy="150" r="260" fill="#ef343d" opacity=".13" filter="url(#glow)"/>
+  <text x="75" y="100" fill="#fff" font-family="Arial" font-weight="800" font-size="34">Auto<tspan fill="#ef343d">Motion</tspan></text>
+  <text x="75" y="240" fill="#ef6970" font-family="Arial" font-weight="700" font-size="18" letter-spacing="5">DRIVEN BY PASSION</text>
+  <text x="75" y="340" fill="#fff" font-family="Arial" font-weight="900" font-size="96">VOEL ELKE</text><text x="75" y="430" fill="none" stroke="#fff" stroke-opacity=".7" font-family="Arial" font-weight="900" font-size="96">BEWEGING.</text>
+  <ellipse cx="790" cy="700" rx="330" ry="45" fill="#ef343d" opacity=".28" filter="url(#glow)"/>
+  <path d="M470 650 C510 560 605 535 725 530 L855 535 C950 550 1020 600 1050 670 L1015 720 L480 710Z" fill="url(#car)"/>
+  <path d="M610 545 L680 445 L850 450 L935 570Z" fill="#131923" stroke="#ef6068" stroke-width="7"/><path d="M695 470 L835 475 L890 555 L640 545Z" fill="#273647"/>
+  <circle cx="610" cy="700" r="78" fill="#050506"/><circle cx="610" cy="700" r="42" fill="#343b46"/><circle cx="925" cy="700" r="78" fill="#050506"/><circle cx="925" cy="700" r="42" fill="#343b46"/>
+  <path d="M975 600 L1040 610 L1005 638 L940 630Z" fill="#fffbd9"/>
+  <text x="75" y="535" fill="#aeb6c3" font-family="Arial" font-size="25">Autonieuws · Reviews · Tuning · Autoshows</text>
+  <rect x="75" y="585" width="230" height="62" rx="31" fill="#ef343d"/><text x="115" y="624" fill="#fff" font-family="Arial" font-weight="700" font-size="20">ONTDEK MEER →</text>
+</svg>

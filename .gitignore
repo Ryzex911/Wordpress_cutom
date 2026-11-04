@@ -1,0 +1,26 @@
+﻿# WordPress configuratie
+/wp-config.php
+/.env
+/.env.*
+
+# WordPress uploads
+/wp-content/uploads/
+
+# Cache
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/backup*/
+
+# Back-ups en logs
+*.log
+*.sql
+*.sql.gz
+*.zip
+*.tar.gz
+*.bak
+*.bk
+
+# Lokale bestanden
+.DS_Store
+Thumbs.db
+.vscode/

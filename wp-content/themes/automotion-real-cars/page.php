@@ -1,0 +1,1 @@
+<?php get_header();?><main id="main"><section class="page-hero"><div class="container"><span class="eyebrow">AutoMotion</span><h1><?php the_title();?></h1></div></section><div class="container section"><article class="entry-content"><?php while(have_posts()):the_post();the_content();endwhile;?></article></div></main><?php get_footer();?>
